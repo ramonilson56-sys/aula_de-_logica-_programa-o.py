@@ -2,3 +2,5 @@
 curso de logica de programacao
 
 aula 1 comandos 
+
+aula 2 calculadora
